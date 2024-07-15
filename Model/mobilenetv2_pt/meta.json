@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "mobilenetv2_pt.xmodel",
+    "kernel": [
+        "subgraph_Unet__Unet_MobileNetV2Encoder_encoder__ConvNormActivation_features__ConvNormActivation_0__Conv2d_0__input_1"
+    ],
+    "target": "DPUCZDX8G_ISA1_B4096_0101000056010407"
+}
