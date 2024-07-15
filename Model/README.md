@@ -8,7 +8,7 @@ The machine learning model used in this project has been optimized using Vitis A
 The experiment was conducted by running inference on the same 100 images for all dataset dimensions.
 
 
-| Dataset Dimensions | Accuracy | IOU  | F1 Score |
+| Dataset Dimensions For AdaQuant | Accuracy | IOU  | F1 Score |
 |--------------------|----------|------|----------|
 | **Before Quantization**    | 0.8788   | 0.851 | 0.8301   |
 | **Without AdaQuant**       | 0.7419   | 0.6827| 0.5909   |
